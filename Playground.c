@@ -1,8 +1,8 @@
 #include <stdio.h>
-//değişti
+
 int main()
 {
-    int ata;
+   
 int islem=0;
 
 int a=0;

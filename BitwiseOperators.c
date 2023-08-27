@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-
+//besinci
 int main()
 {
 	unsigned int a = 60; // 0011 1100
